@@ -1,4 +1,4 @@
-# module 4    a bit accurate working module
+# module 2    a bit accurate working module
 
 import cv2
 import mediapipe as mp
